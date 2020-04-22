@@ -6,7 +6,6 @@ In this video, we will be talking about a plugin in Adobe Xd that generated Flut
 
 Medium Blog -- https://medium.com/devmins/adobe-xd-design-to-flutter-code-flutter-fc41b0d9d41f
 
-
 Youtube video Link
 
 [![IMAGE ALT TEXT HERE](extras/poster.png)](https://www.youtube.com/watch?v=GwYwOC2qgkQ)
@@ -18,12 +17,18 @@ Youtube video Link
 - Adobe XD installed
 
 Subscribe to the channel if you like what you see😉.
+Youtube : https://www.youtube.com/devmins
 
 Follow me:
-Twitter: https://twitter.com/imRaviSSingh
-Facebook: https://www.facebook.com/itsravishank...
-Instagram: https://www.instagram.com/itsravishan...
-Github: https://github.com/ravishankarsingh1996
-LinkedIn: https://www.linkedin.com/in/itsravish...
 
-#flutter #adobeXd #adobe #trending
+Twitter: https://twitter.com/imRaviSSingh
+
+Facebook: https://www.facebook.com/itsravishankarsingh
+
+Instagram: https://www.instagram.com/itsravishankarsingh
+
+Github: https://github.com/ravishankarsingh1996
+
+LinkedIn: https://www.linkedin.com/in/itsravishankarsingh
+
+
