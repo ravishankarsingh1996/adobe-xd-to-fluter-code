@@ -6,7 +6,6 @@ In this video, we will be talking about a plugin in Adobe Xd that generated Flut
 
 Medium Blog -- https://medium.com/devmins/adobe-xd-design-to-flutter-code-flutter-fc41b0d9d41f
 
-<img src="extras/poster.png"/>
 
 Youtube video Link
 
